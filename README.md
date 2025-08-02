@@ -1,4 +1,7 @@
-# Hi there, I'm Ujwal! 👋
+<h1 align="center">Hi there, I'm Ujwal! 👋</h1>
+<p align="center">
+  <em>Data Scientist · Cybersecurity Enthusiast · AI Innovator</em>
+</p>
 
 ## 🚀 About Me
 
@@ -68,8 +71,8 @@ skills = {
 - 💼 LinkedIn: [Ujwal Ramachandran](https://www.linkedin.com/in/ujwal-ramachandran-28b753199/)
 - 📱 Phone: +91-9490775031
 
+## 📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal-Ramachandran&layout=compact&theme=radical" /></p>
 
----
-⭐️ From [Ujwal-Ramachandran](https://github.com/Ujwal-Ramachandran)
-
-*"Driven by curiosity, powered by code, secured by design."*
+<p align="center"> ⭐️ From [Ujwal-Ramachandran](https://github.com/Ujwal-Ramachandran)</p>
+<p align="center"><em>"Driven by curiosity, powered by code, secured by design."</em></p>
