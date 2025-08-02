@@ -1,47 +1,75 @@
-<div align="center">
-<!-- ### Hi there 👋 -->
-<div align="center" width="50">
-<img src="https://github.com/Ujwal-Ramachandran/Ujwal-Ramachandran/blob/main/hello.gif?raw=true" alt="Hello" height="300" />  
+# Hi there, I'm Ujwal! 👋
 
-## Welcome to my Profile
+## 🚀 About Me
 
-        
-        
-</div> 
-        
-# I am Ujwal
+I'm a **Data Scientist** and **Cybersecurity Enthusiast** passionate about leveraging cutting-edge technologies to drive impactful solutions in the AI domain. Currently pursuing my **Master's in Cybersecurity** at **Nanyang Technological University (NTU), Singapore**.
 
-        
-## A Data Scientist at Optum
-<!-- 
-**Ujwal-Ramachandran/Ujwal-Ramachandran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
--->
+With 3+ years of experience at **Optum - UHG**, I've led automation projects, developed AI-powered solutions, and specialized in security aspects across multiple projects. I'm driven by continuous learning and collaborative problem-solving.
 
-</div>
+## 🔭 Current Focus
 
-<br>
-
-💬⚡ Ask me about :
-
-        🪐 Astronomy 
-        
-        📷 Photography 
-        
-        🐅 Wildlife 
-        
-        🖥️ Cyber Security
-        
-        
-     
-
-  📫 How to reach me:
-  <a href="mailto:contactme.ujwal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+- 🎓 **Masters in Cybersecurity** at NTU Singapore (Aug 2025 - Present)
+- 🔐 Exploring advanced cybersecurity concepts and threat analysis
+- 🤖 Building AI/ML solutions for security applications
+- 📡 Developing automation tools and intelligent systems
 
 
-[<img src="https://img.shields.io/github/stars/cutenode/1x.engineer.svg?color=purple&label=1x%20Engineers&logo=image%2Fpng%3Bbase64%2CiVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAADAElEQVRoQ%2B1YPZMNQRQ9RyYiUCVkI0J%2BASUi4xfYzYjsVsmXX2BFZFauigyJ4hcQEtkNVQmoEjvqqh7VM6%2B%2FZ%2BapqXodvtdz%2B56%2B59zT3cTCBxeePzYA%2FncFNxUoqYCkEwC2AbwjeVTyTemctVRA0iUAH11SxwBekLxfmmRq3roA3AHwxEvkLcnrSwJwCOC2l%2FBDkg%2BWBOAzgAtewjdIvlkEAElnAHwDYEK28RvAWZLflwLAuP7aS%2FYLyYtTJG8xZhexJOP6vpfwc5LWUicZ6wDwHsAVL9u7JJ9Okv2YCki6SfJVKhFnYL8AnPTmXSb5yf%2BuJFZsnaYKSHoEYBfAIcmdWPCBgdk0E64J2IT8d0h65lz6gORebWWqAEg6DeAlgKveQjskrc%2BvDElJA5NkWjAA3TC63SL5oxRIMQC3m5b8%2BUHwn%2FZbaFFJUQNzm2HnolODePabgejRbBSF3E4ZbawC%2FrBzjWkhuJikpIG5TTEdnRvEtQrsxSrrz81WwOP7cBM%2BuOSD5S41MFcJA%2BF3qm6trC6iACJ87wI%2FJmkijg5JVQYm6QDAvUDApC6CADJ83y0pbYuBOaoakGJdrACwnuw6QxXfhzsnqcnAMrqwjtfznhCAr4FOk%2BR7IHk7uGUNLMa%2FhC6OSG4lRSzJ2tiwK1T15xIDy%2Bgn5Df2yTHJXhuPUcj6dzEPAxVovoFl9LedpZAlM7Y%2Fpwwss%2FPmzFV%2Bk2ujTf05Z2AhEK1%2BU2JkVf251MA6EGP9JgvAUcpKW9SfawxsCr8pAlCgi63uMFdqYG7nrWWP8ptiAA6ELTbURe84XWNggeN0ld9YTlUAPN52uujdb0tvYL6IvY6VPV%2BFxN8EwFVj5UrZamBrv1ImjgDNBpbyh9R%2FzRWI9PLZnhBjIKYGMNsT4uwAag2slTLD7yarQI2BTZV8cxuN8H%2FWJ8R1UKjpBja2GlNSyMzNrqPdZWjlCXFsspMaWcIL7MZ0zT07%2FntCnCP5STUwV4K5uJNRKLfQXP9vAMy1s6VxF1%2BBPxWSokDSvlDHAAAAAElFTkSuQmCC&style=for-the-badge&link=https://1x.engineer&link=https://github.com/cutenode/1x.engineer/stargazers">
-](https://1x.engineer/)
+## 💻 Tech Stack
+
+
+```python
+skills = {
+    "Languages": ["Python", "Shell", "SQL", "C", "C++", "HTML", "CSS", "JavaScript"],
+    "Databases": ["MongoDB", "Oracle DB", "MySQL"],
+    "AI and ML": ["LLM", "Agentic AI", "Prompt Engineering", "MLOPs"],
+    "Cloud Devops": ["Azure", "Docker", "Jenkins", "Kubernetes"],
+    "Cybersecurity": ["Ethical Hacking", "Vulnerability Assessment", "Security Automation"]
+}
+```
+
+
+## 🤖 AI/Data Science Journey
+
+- 📊 **Contract Intelligence**: Led automation projects extracting and cleansing contract data, reducing financial risks.
+- 🔄 **Cognitive Automation**: Developed real-time data transmission systems for automated order and claim creation.
+- 📈 **Predictive Analytics**: Created confidence score metrics with dynamic KPI weighting based on historical data.
+- 🕷️ **Web Scraping Intelligence**: Built sophisticated multi-website scraping tools contributing to 10% sales increase.
+- 🧠 **LLM Integration**: Implemented large language models for contract redlining and automated insights generation.
+- ⚙️ **MLOps Pipeline**: Designed and deployed scalable machine learning operations for production environments.
+
+
+## 🛡️ Cybersecurity Journey
+
+- 🔍 **Security Automation**: Reduced vulnerabilities by 90% through automated security screening.
+- 🎯 **Threat Detection**: Developed real-time monitoring systems for contract intelligence.
+- 🔐 **Authentication**: Engineered passwordless login systems using Keycloak.
+- 📊 **Accuracy Assessment**: Created confidence score metrics for Accuracy evaluation.
+
+
+## 💬 Ask me about:
+
+- 🪐 **Astronomy** - My passion for space and celestial phenomena.
+- 📷 **Photography** - Capturing moments and wildlife through my lens.
+- 🖥️ **Cybersecurity** - Threat analysis, security automation, and defense strategies.
+- 🤖 **AI/ML** - Building intelligent systems and automation solutions.
+
+
+## 🌍 Beyond Tech
+
+- 📸 **Photography Enthusiast**: Wildlife and nature photography (Not professional tho).
+- 🌱 **Environmentalist**: Active volunteer for sustainability initiatives.
+- 🎮 **Games**: I love games, whether its outdoor sports or online video games.
+- 🎓 **Mentor**: Helped underprivileged children through educational programs.
+
+
+## 📫 Let's Connect!
+
+- 📧 Email: [contactme.ujwal@gmail.com](mailto:contactme.ujwal@gmail.com?subject=Hi,%20I'd%20like%20to%20know%20more%20about%20you&body=Hi%20Ujwal,%0A%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20learn%20more%20about%20your%20work%20and%20experiences.%20Could%20you%20please%20share%20your%20resume?%0A%0AThanks!)
+- 💼 LinkedIn: [Ujwal Ramachandran](https://www.linkedin.com/in/ujwal-ramachandran-28b753199/)
+- 📱 Phone: +91-9490775031
+
+
+---
+⭐️ From [Ujwal-Ramachandran](https://github.com/Ujwal-Ramachandran)
+
+*"Driven by curiosity, powered by code, secured by design."*
