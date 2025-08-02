@@ -23,10 +23,10 @@ With 3+ years of experience at **Optum - UHG**, I've led automation projects, de
 ```python
 skills = {
     "Languages": ["Python", "Shell", "SQL", "C", "C++", "HTML", "CSS", "JavaScript"],
-    "Databases": ["MongoDB", "Oracle DB", "MySQL"],
+    "Databases": ["MongoDB", "MySQL"],
     "AI and ML": ["LLM", "Agentic AI", "Prompt Engineering", "MLOPs"],
     "Cloud Devops": ["Azure", "Docker", "Jenkins", "Kubernetes"],
-    "Cybersecurity": ["Ethical Hacking", "Vulnerability Assessment", "Security Automation"]
+    "Cybersecurity": ["Vulnerability Assessment"]
 }
 ```
 
