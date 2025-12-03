@@ -7,7 +7,7 @@
 
 I'm a **Data Scientist** and **Cybersecurity Enthusiast** passionate about leveraging cutting-edge technologies to drive impactful solutions in the AI domain. Currently pursuing my **Master's in Cybersecurity** at **Nanyang Technological University (NTU), Singapore**.
 
-With 3+ years of experience at **Optum - UHG**, I've led automation projects, developed AI-powered solutions, and specialized in security aspects across multiple projects. I'm driven by continuous learning and collaborative problem-solving.
+With 3 years of experience at **Optum - UHG**, I've led automation projects, developed AI-powered solutions, and specialized in security aspects across multiple projects. I'm driven by continuous learning and collaborative problem-solving.
 
 ## 🔭 Current Focus
 
