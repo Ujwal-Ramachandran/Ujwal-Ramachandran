@@ -11,7 +11,7 @@ With 3 years of experience at **Optum - UHG**, I've led automation projects, dev
 
 ## 🌐 Beyond the Resume
 
-This portfolio is more than just a list of skills, it's an interactive journey through my digital mind.
+My portfolio website(Ujwal-Ramachandran.github.io) is more than just a list of skills, it's an interactive journey through my digital mind.
 
 While it maps out my professional evolution across Data Science and Cybersecurity, it also rewards the curious. Venture off the main path to discover a **whimsical Pixel Art World** populated by a crew of digital animals, or test your wits against a **Hidden Logic Game** concealed deep within the system.
 
@@ -27,10 +27,10 @@ While it maps out my professional evolution across Data Science and Cybersecurit
 ## 💻 Tech Stack
 
 ```python
-skills = {
+Skills = {
     "Languages": ["Python", "Shell", "SQL", "C", "C++", "HTML", "CSS", "JavaScript"],
     "Databases": ["MongoDB", "MySQL"],
-    "AI and ML": ["LLM", "Agentic AI", "Prompt Engineering", "MLOPs"],
+    "AI and ML": ["LLM", "Agentic AI", "Prompt Engineering", "MLOPs", "RAG"],
     "Cloud Devops": ["Azure", "Docker", "Jenkins", "Kubernetes"],
     "Cybersecurity": ["Vulnerability Assessment"]
 }
@@ -70,9 +70,6 @@ skills = {
 
 - 📧 Email: [contactme.ujwal@gmail.com](mailto:contactme.ujwal@gmail.com?subject=Hi,%20I'd%20like%20to%20know%20more%20about%20you&body=Hi%20Ujwal,%0A%0AI%20came%20across%20your%20profile%20and%20would%20love%20to%20learn%20more%20about%20your%20work%20and%20experiences.%20Could%20you%20please%20share%20your%20resume?%0A%0AThanks!)
 - 💼 LinkedIn: [Ujwal Ramachandran](https://www.linkedin.com/in/ujwal-ramachandran-28b753199/)
-
-## 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujwal-Ramachandran&layout=compact&theme=radical" /></p>
 
 <p align="center"> ⭐️ From [Ujwal-Ramachandran](https://github.com/Ujwal-Ramachandran)</p>
 <p align="center"><em>"Driven by curiosity, powered by code, secured by design."</em></p>
