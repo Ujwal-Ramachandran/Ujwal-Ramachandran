@@ -9,61 +9,62 @@ I'm a **Data Scientist** and **Cybersecurity Enthusiast** passionate about lever
 
 With 3 years of experience at **Optum - UHG**, I've led automation projects, developed AI-powered solutions, and specialized in security aspects across multiple projects. I'm driven by continuous learning and collaborative problem-solving.
 
+## 🌐 Beyond the Resume
+
+This portfolio is more than just a list of skills, it's an interactive journey through my digital mind.
+
+While it maps out my professional evolution across Data Science and Cybersecurity, it also rewards the curious. Venture off the main path to discover a **whimsical Pixel Art World** populated by a crew of digital animals, or test your wits against a **Hidden Logic Game** concealed deep within the system.
+
+*(Hint: The footer might hold the key to the firewall...)*
+
 ## 🔭 Current Focus
 
-- 🎓 **Masters in Cybersecurity** at NTU Singapore (Aug 2025 - Present)
-- 🔐 Exploring advanced cybersecurity concepts and threat analysis
-- 🤖 Building AI/ML solutions for security applications
-- 📡 Developing automation tools and intelligent systems
-
+  - 🎓 **Masters in Cybersecurity** at NTU Singapore (Aug 2025 - Present)
+  - 🔐 Exploring advanced cybersecurity concepts and threat analysis
+  - 🤖 Building AI/ML solutions for security applications
+  - 📡 Developing automation tools and intelligent systems
 
 ## 💻 Tech Stack
 
-
 ```python
 skills = {
-    "Languages": ["Python", "Shell", "SQL", "C", "C++", "HTML", "CSS", "JavaScript"],
-    "Databases": ["MongoDB", "MySQL"],
-    "AI and ML": ["LLM", "Agentic AI", "Prompt Engineering", "MLOPs"],
-    "Cloud Devops": ["Azure", "Docker", "Jenkins", "Kubernetes"],
-    "Cybersecurity": ["Vulnerability Assessment"]
+    "Languages": ["Python", "Shell", "SQL", "C", "C++", "HTML", "CSS", "JavaScript"],
+    "Databases": ["MongoDB", "MySQL"],
+    "AI and ML": ["LLM", "Agentic AI", "Prompt Engineering", "MLOPs"],
+    "Cloud Devops": ["Azure", "Docker", "Jenkins", "Kubernetes"],
+    "Cybersecurity": ["Vulnerability Assessment"]
 }
 ```
 
-
 ## 🤖 AI/Data Science Journey
 
-- 📊 **Contract Intelligence**: Led automation projects extracting and cleansing contract data, reducing financial risks.
-- 🔄 **Cognitive Automation**: Developed real-time data transmission systems for automated order and claim creation.
-- 📈 **Predictive Analytics**: Created confidence score metrics with dynamic KPI weighting based on historical data.
-- 🕷️ **Web Scraping Intelligence**: Built sophisticated multi-website scraping tools contributing to 10% sales increase.
-- 🧠 **LLM Integration**: Implemented large language models for contract redlining and automated insights generation.
-- ⚙️ **MLOps Pipeline**: Designed and deployed scalable machine learning operations for production environments.
-
+  - 📊 **Contract Intelligence**: Led automation projects extracting and cleansing contract data, reducing financial risks.
+  - 🔄 **Cognitive Automation**: Developed real-time data transmission systems for automated order and claim creation.
+  - 📈 **Predictive Analytics**: Created confidence score metrics with dynamic KPI weighting based on historical data.
+  - 🕷️ **Web Scraping Intelligence**: Built sophisticated multi-website scraping tools contributing to 10% sales increase.
+  - 🧠 **LLM Integration**: Implemented large language models for contract redlining and automated insights generation.
+  - ⚙️ **MLOps Pipeline**: Designed and deployed scalable machine learning operations for production environments.
 
 ## 🛡️ Cybersecurity Journey
 
-- 🔍 **Security Automation**: Reduced vulnerabilities by 90% through automated security screening.
-- 🎯 **Threat Detection**: Developed real-time monitoring systems for contract intelligence.
-- 🔐 **Authentication**: Engineered passwordless login systems using Keycloak.
-- 📊 **Accuracy Assessment**: Created confidence score metrics for Accuracy evaluation.
-
+  - 🔍 **Security Automation**: Reduced vulnerabilities by 90% through automated security screening.
+  - 🎯 **Threat Detection**: Developed real-time monitoring systems for contract intelligence.
+  - 🔐 **Authentication**: Engineered passwordless login systems using Keycloak.
+  - 📊 **Accuracy Assessment**: Created confidence score metrics for Accuracy evaluation.
 
 ## 💬 Ask me about:
 
-- 🪐 **Astronomy** - My passion for space and celestial phenomena.
-- 📷 **Photography** - Capturing moments and wildlife through my lens.
-- 🖥️ **Cybersecurity** - Threat analysis, security automation, and defense strategies.
-- 🤖 **AI/ML** - Building intelligent systems and automation solutions.
-
+  - 🪐 **Astronomy** - My passion for space and celestial phenomena.
+  - 📷 **Photography** - Capturing moments and wildlife through my lens.
+  - 🖥️ **Cybersecurity** - Threat analysis, security automation, and defense strategies.
+  - 🤖 **AI/ML** - Building intelligent systems and automation solutions.
 
 ## 🌍 Beyond Tech
 
-- 📸 **Photography Enthusiast**: Wildlife and nature photography (Not professional tho).
-- 🌱 **Environmentalist**: Active volunteer for sustainability initiatives.
-- 🎮 **Games**: I love games, whether its outdoor sports or online video games.
-- 🎓 **Mentor**: Helped underprivileged children through educational programs.
-
+  - 📸 **Photography Enthusiast**: Wildlife and nature photography (Not professional tho).
+  - 🌱 **Environmentalist**: Active volunteer for sustainability initiatives.
+  - 🎮 **Games**: I love games, whether its outdoor sports or online video games.
+  - 🎓 **Mentor**: Helped underprivileged children through educational programs.
 
 ## 📫 Let's Connect!
 
